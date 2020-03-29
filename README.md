@@ -1,5 +1,5 @@
-# Manejo de sesiones
-
+# Axel Octavio Meinguer Estrada
+Basado en las plantillas usadas en la tarea, entrega 1 se intala igual, no se uso nada diferente a lo de la tarea 3
 ## Requerimientos
 
 El sistema depende de que tengas [Knex.js](http://knexjs.org/) instalado de forma global.
