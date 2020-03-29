@@ -1,5 +1,5 @@
 # Axel Octavio Meinguer Estrada
-Basado en las plantillas usadas en la tarea, entrega 1 se intala igual, no se uso nada diferente a lo de la tarea 3
+Basado en las plantillas usadas en la tarea, entrega 1 se instala igual, no se uso nada diferente a lo de la tarea 3 por ahora...
 ## Requerimientos
 
 El sistema depende de que tengas [Knex.js](http://knexjs.org/) instalado de forma global.
